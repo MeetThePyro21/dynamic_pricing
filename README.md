@@ -36,8 +36,7 @@ Important: there may be new buyers.
 | ----|:----:|------:|---------------:|------------------------------:|
 | SKU | year | month | plan for sales | bonus for completing the plan |
 
-wholesale_trade_table.csv — данные по закупкам:
-
+**wholesale_trade_table.csv — purchasing data:**
 | SKU | year | week_num    |    cost_price  | 
 | ----|:----:|------------:|---------------:|
 | SKU | year | week number | cost price     | 
